@@ -1,2 +1,2 @@
 # TIL
-Today I Learn :  Be better than yesterday
+Today I Learn :  Be better than yesterday!!
