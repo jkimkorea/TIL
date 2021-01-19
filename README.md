@@ -5,4 +5,4 @@ Today I Learn :  Be better than yesterday!!
 
 Github-Flavoured Markdown으로 작성하고 파일 확장자는 md.
 
--- 그래야 글씨에 디자인적요소를 할 수 있다.
+-- 그래야 글씨에 디자인적요소를 적용 할 수 있다.
